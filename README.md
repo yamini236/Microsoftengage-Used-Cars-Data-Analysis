@@ -53,7 +53,9 @@
 ****
 
 #### Powerbi report for Additional Analysis as pdf
-![powetbi](https://github.com/yamini236/microsostengage/blob/master/analysisreport.pdf)
+![Powerbi](https://github.com/yamini236/microsostengage/blob/master/ss/powerbi.png)
+####Click here for full pdf
+![pdf](https://github.com/yamini236/microsostengage/blob/master/analysisreport.pdf)
 ****
 
 <a name="prediction"></a>
