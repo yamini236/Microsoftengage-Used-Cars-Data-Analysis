@@ -99,7 +99,7 @@ Click here for full pdf
 
 
 <a name="guide"></a>
-## Guide to Use Achilles
+## Guide to Use Repo
 #### Install
 
 ```
