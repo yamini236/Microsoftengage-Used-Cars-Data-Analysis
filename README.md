@@ -124,6 +124,7 @@ Run the following Commands
 Observe the analysis
 To insert new cell choose Insert
 To run a new cell Choose Run
+To add new package not already installed use - !pip install <packagename>
 ```
 <a name="author"></a>
 ## Author
