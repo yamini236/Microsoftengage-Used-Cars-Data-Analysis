@@ -17,7 +17,7 @@
 <a name="why"></a>
 ## Why is this analysis reuired?
 - **User View** - To know the price and features of used cars according to your favourable features and helps you decide to  buy a new or a used car.
-- **Owner View** - By observing stats gain information about current aspects in automotive industry market and heps to increase production rates and selling units through it.
+- **Owner View** - By observing stats ,gain information about current aspects in automotive industry market and heps to increase production rates and selling units through it.
  
 
 <a name="tech"></a>
@@ -94,7 +94,7 @@ Click here for full pdf
 - Used Cars are much preferable under low budget especially for college/university students.
 - Diesel driven and Manual mode cars are favoured over others.
 - Volvo series being expensive originally, has a much cheaper cost in case of used cars hence those you love this series can go for it.
-- Selling unita and production can be increased efficiently using data analysis.
+- Selling units and production can be increased efficiently using data analysis.
 - Customers can predict price according to their favourable features.
 
 
