@@ -54,7 +54,7 @@
 
 #### Powerbi report for Additional Analysis as pdf
 ![Powerbi](https://github.com/yamini236/microsostengage/blob/master/ss/powerbi.png)
-####Click here for full pdf
+Click here for full pdf
 ![pdf](https://github.com/yamini236/microsostengage/blob/master/analysisreport.pdf)
 ****
 
@@ -132,7 +132,7 @@ To run a new cell Choose Run
 
 * Resume: [Link](https://drive.google.com/file/d/1MHJ8og7jzpmgrPYMpLe-2mZVmLq3RLJE/view?usp=sharing)
 * Github: [@yamini236](https://github.com/yamini236/microsostengage)
-* LinkedIn: [@yaminiban...l](https://www.linkedin.com/in/yamini-bansal-4037301bb/)
+* LinkedIn: [@yaminibansal](https://www.linkedin.com/in/yamini-bansal-4037301bb/)
 
 ## Show your support
 
