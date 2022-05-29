@@ -103,7 +103,7 @@ Click here for full pdf
 #### Install
 
 ```
-git clone https://github.com/yamini236/microsostengage
+git clone https://github.com/yamini236/Microsoftengage-Used-Cars-Data-Analysis.git
 ```
 
 #### Jupyter Notebook
